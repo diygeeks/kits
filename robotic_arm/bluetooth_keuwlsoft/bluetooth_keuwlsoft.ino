@@ -17,8 +17,7 @@ int l = 90;
 int r = 90;
 int c = 50;
 
-// Current value of pad
-int val = 0;
+int val = 0;  // Current value of pad
 
 void setup() {
   Serial.begin(9600);
