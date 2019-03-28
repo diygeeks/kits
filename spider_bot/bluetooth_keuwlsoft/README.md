@@ -38,7 +38,7 @@ But with little modification you can make it to work with any classic bluetooth 
 
 ![screenshot7](https://diygeeks.org/wp-content/uploads/2019/03/kewl_screenshot7.png)
 
-- Drag the first one to the empty panel like this
+- Drag the first one onto the empty panel like this
 
 ![screenshot8](https://diygeeks.org/wp-content/uploads/2019/03/kewl_screenshot8.png)
 
