@@ -54,4 +54,4 @@ But with little modification you can make it to work with any classic bluetooth 
 
 ## Limitation
 
-Unlike the Robotic Arm, the Spider Bot will keep executing the current operation (moving forward, backward or turning around) until it is complete, before proceeding with the next operation, even if you pressed the pad in app halfway through for next operation. To keep the code simple, we left it as it is. But you can easily remedy this with a bit of modification.
+Unlike the Robotic Arm, the Spider Bot will keep executing the current operation (moving forward, backward or turning around) until it is complete, before proceeding with the next operation, even if you pressed the pad in app halfway between for next operation. To keep the code simple, we left it as it is. But you can easily remedy this with a bit of modification.
